@@ -10,7 +10,7 @@ Inspired by the clean, data-focused design language of **Stripe** and **Notion**
 [![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
-[Live Demo](#) · [Report Bug](https://github.com/DeepParekh9190/react-admin-dashboard/issues) · [Request Feature](https://github.com/DeepParekh9190/react-admin-dashboard/issues)
+[🌐 Live Demo](https://react-admin-dashboard-eight-kappa.vercel.app/) · [Report Bug](https://github.com/DeepParekh9190/react-admin-dashboard/issues) · [Request Feature](https://github.com/DeepParekh9190/react-admin-dashboard/issues)
 
 </div>
 
